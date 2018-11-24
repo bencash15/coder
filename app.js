@@ -182,7 +182,7 @@ function getToken() {
 
 
 function sendNotification(notification) {
-    var key = 'AAAAZ-m9AdA:APA91bH3t0Y8v5O5ZMSStN0HHf3UVP-FqRmnd-nczbLwi4GpYAgyP5NCPvLPcQGp5h7qKmMbuQGogAJxsVfr9550MPRxfryDdOavaj26JCr7LkLx94GjEh8fg1v1d7CQqrE1oCufIY4s';
+    var key = '';
             
     console.log('Send notification', notification);
 
